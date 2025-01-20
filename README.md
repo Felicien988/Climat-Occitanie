@@ -9,3 +9,4 @@ Le dérègelement climatique est actuellement bien documenté à l'échelle mond
 ## Méthodologie :
 Cette analyse a été réalisée à partir des données des 2273 stations de Météo-France présentes sur l'ensemble de la région Occcitanie. Les moyennes sur la période 1960-1980 ont été utilisées comme référence. L'étude se concentre sur les évolutions entre 1980 et 2024, par rapport à cette période de référence. 
 D'un point de vue géographique, l'échelle départementale a été retenue car elle permet d'obtenir des résultats robsutes, exploitables, et qu'elle est une échelle fréquemment utilisée par les décisionnaires politiques.
+Des outils ont été ajoutés à la fin de la présentation pour permettre à l'utilisateur de regarder les évolutions du climat au niveau de lieux plus précis.
